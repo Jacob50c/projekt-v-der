@@ -1,0 +1,17 @@
+body{margin: 0; padding: 0;}
+
+.blackbox{width: 100%; height: 25px; background: black;}
+.bluebox{width: 100%; height: 25px; background: #A9BCFC;}
+
+.titelhead{width: 75%; height: 10vh; background: linear-gradient(#A9BCFC, #ffffff); margin: auto;}
+h2{color: black; text-align: center; margin-top: 20px;} h1{font-size: 0; margin-top: 10px;}
+h1:before{content: "March"; font-size: 45px; color: orange;} h1:after{content: "Wheather"; font-size: 35px; color: black;}
+.link:hover{background: #B3DAFD;}
+
+
+.content{width: 80vw; height: 150vh; border: 4px solid; background: #B3DAFD; margin: auto; margin-top: 3vh;}
+
+.dataBox{width: 80%; height: 10vh; border: 1px solid; margin: auto; margin-top: 20px;}
+.butt{height: 70%; border: 2px solid; margin-top: 15px;} .datu{height:100%; border: 2px solid;}
+
+.wheaterBox{width: 100%; height: 120vh; border: 1px solid; margin: auto; margin-top: 75px; margin-bottom: 20px;}
